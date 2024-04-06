@@ -1,0 +1,5 @@
+Hallazgos de la Solución
+
+1. Al registrar un usuario retorna un HTML mostarndo la vista de acceso correcto con una respuesta 200OK pero al ingresar esa misma direccion en la pagina retorna un error
+2. Al registrar nuevamente el usuario ya registrado con anterioridad retorna un 200OK
+3.logaut es retornado con un get.

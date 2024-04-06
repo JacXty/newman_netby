@@ -1,0 +1,14 @@
+{
+  "name": "newman_netby",
+  "version": "1.0.0",
+  "description": "newman api-testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node ./src/environments/test.js"
+  },
+  "author": "Jasosn Uyaguari",
+  "license": "ISC",
+  "devDependencies": {
+    "newman": "^6.1.2"
+  }
+}
