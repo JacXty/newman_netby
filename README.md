@@ -3,7 +3,7 @@
 
 ## Requisitos
 
-- Node.js (v19.8.1)
+- Node.js (v20.11.0)
 
 ## Instalación
 
